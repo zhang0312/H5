@@ -1,0 +1,22 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "PC项目：\r     实现页面：\r         注册\r         登录\r         首页\r         列表\r         详情\r         购物车\r         确认订单",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhang0312/H5.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhang0312/H5/issues"
+  },
+  "homepage": "https://github.com/zhang0312/H5#readme"
+}
